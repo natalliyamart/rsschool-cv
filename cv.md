@@ -7,8 +7,4 @@
    2013-2019 - ALC LIBELLA, *accountant*
 6. **Languages:**
    English - Intermediate
-7. **Interests:**
-   reading
-   sport 
-   music
-   figure skating 
+7. **Interests:** reading, sport, music, figure skating 
