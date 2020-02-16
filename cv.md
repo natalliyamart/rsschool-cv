@@ -11,3 +11,4 @@
    reading
    sport 
    music
+   figure skating 
