@@ -1,0 +1,22 @@
+div {
+    width: 1024px;
+    margin: auto;
+    
+    background-color: honeydew;
+}
+
+h1 {
+    color: seagreen;
+}
+
+h2,
+h3 {
+    color: darkseagreen;
+}
+
+img {
+    position: absolute;
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
